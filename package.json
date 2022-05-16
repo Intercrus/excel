@@ -1,0 +1,25 @@
+{
+  "name": "excel",
+  "version": "1.0.0",
+  "description": "Pure JS Excel",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Intercrus/excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "sam-y",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Intercrus/excel/issues"
+  },
+  "homepage": "https://github.com/Intercrus/excel#readme",
+  "private": true
+}
